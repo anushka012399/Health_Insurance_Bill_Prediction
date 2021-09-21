@@ -3,8 +3,8 @@ This was made by me during the 6th semester(2020) for Applied Statistical Method
 A project which will help predicting the cost of the medical bills using a model implementing multiple regression.
 This would be a helpful prediction analysis as healthcare costs are rising as we move ahead in time and no matter what, these costs are unavoidable.<br><br>
 ***Dataset Description***<br>
-The dataset was obtained from Kaggle and used for this study.
-• No of observation (rows): 1338
+The dataset was obtained from Kaggle and used for this study.<br>
+• No of observation (rows): 1338<br>
 • Attributes (columns): 7<br><br>
 Independent variables:<br>
 i. age: age of the individual<br>

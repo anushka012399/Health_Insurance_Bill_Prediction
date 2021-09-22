@@ -1,5 +1,4 @@
 # Health Insurance Bill Prediction for regions of USA
-This was made by me during the 6th semester(2020) for Applied Statistical Methods.<br>
 A project which will help predicting the cost of the medical bills using a model implementing multiple regression.
 This would be a helpful prediction analysis as healthcare costs are rising as we move ahead in time and no matter what, these costs are unavoidable.<br><br>
 ***Dataset Description***<br>
@@ -17,7 +16,7 @@ v. smoker: Smoking<br>
 vi. region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.<br><br>
 Dependent variable:<br>
 charges: Individual medical costs billed by health insurance<br><br>
-***Approach Used in the Report***<br>
+***Approach Used in the Project***<br>
 In this report I would be solving the problem with two methods using, Scikit -learn and statsmodel.<br>
 • I will start by fitting the model using SKLearn. After I fit the model, unlike with statsmodels,
 SKLearn does not automatically print the concepts or have a method like summary. So we have to

@@ -17,7 +17,7 @@ vi. region: the beneficiary's residential area in the US, northeast, southeast, 
 Dependent variable:<br>
 charges: Individual medical costs billed by health insurance<br><br>
 ***Approach Used in the Project***<br>
-In this report I would be solving the problem with two methods using, Scikit -learn and statsmodel.<br>
+In this project I would be solving the problem with two methods using, Scikit -learn and statsmodel.<br>
 • I will start by fitting the model using SKLearn. After I fit the model, unlike with statsmodels,
 SKLearn does not automatically print the concepts or have a method like summary. So we have to
 print the coefficients,intercepts etc. separately.<br>
